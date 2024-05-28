@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am currently a highschool student passionate about data science!
 
 <!--
 **devan-p/devan-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
