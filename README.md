@@ -1,6 +1,8 @@
 ## Hi there 👋
 I am currently a highschool student passionate about data science!
 
+I have experience with C#, Python, and Java.
+
 <!--
 **devan-p/devan-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
